@@ -1407,7 +1407,7 @@ button:active {
   color: #fff;
   transition: 0.3s;
 }
-.page .blog .blog-btn:active, .page .blog .blog-btn:focus {
+.page .blog .blog-btn:active {
   outline: none;
   background: rgba(0, 0, 0, 0);
   color: #19bd9a;

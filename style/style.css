@@ -1827,7 +1827,6 @@ button:active {
 }
 @media (max-width: 980px) {
   .header{
-    height:90vh;
     padding: 20px;
   }
   .header .top .menu {

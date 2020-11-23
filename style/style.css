@@ -1827,6 +1827,7 @@ button:active {
 }
 @media (max-width: 980px) {
   .header {
+     display:none;
     height:90vh;
     padding: 20px;
   }

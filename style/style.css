@@ -1799,6 +1799,7 @@ button:active {
 }
 
 @media (max-width: 1400px) {
+   
   .header .top .menu .header-link {
     padding: 4px 7px;
   }
@@ -1826,6 +1827,7 @@ button:active {
 }
 @media (max-width: 980px) {
   .header {
+    height:90vh;
     padding: 20px;
   }
   .header .top .menu {
